@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Table = ({
+const Table = ({
   columns,
   renderRow,
   data,
@@ -24,3 +24,5 @@ export const Table = ({
     </table>
   );
 };
+
+export default Table;

@@ -5,7 +5,7 @@ const announcements = [
     date: "2025-01-01",
     description:
       "The school will remain closed from Jan 10 - Jan 20 for the winter break.",
-    bg: "bg-lamaSkyLight",
+    bg: "bg-SkyLight",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const announcements = [
     date: "2025-02-15",
     description:
       "Midterm exam timetable has been published. Check the exams section for details.",
-    bg: "bg-lamaPurpleLight",
+    bg: "bg-PurpleLight",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const announcements = [
     date: "2025-03-05",
     description:
       "Over 200 new titles have been added to the library. Students are encouraged to explore.",
-    bg: "bg-lamaYellowLight",
+    bg: "bg-YellowLight",
   },
 ];
 
